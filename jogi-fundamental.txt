@@ -1,0 +1,8 @@
+Resolusi Jogi
+
+- Minggu 1 (23/10/25 - 30/10/25)
+Apa itu frontend dan backend.
+Instalasi VS Code (editor kode).
+Belajar terminal dasar (cara navigasi folder lewat teks).
+Buat akun GitHub → simpan kode kamu secara online.
+🧠 Konsistensi & Disiplin — Biasakan belajar 1–2 jam setiap hari, walau sedikit.
